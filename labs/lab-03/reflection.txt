@@ -1,0 +1,11 @@
+1. Describe how to approach writing recursive functions. What steps do you take?
+
+What I first think about when writing a rescursive function, i try to start at it's base case which is essentially the end of recursion.
+I break that problem down into smaller problems, into their specific individual calls, until I reach the base case from earlier. I used
+simple test straightforward tests to make sure they work correctly one by one and all cohesively afterwards.
+
+2. Describe the process of analyzing recursive functions. How does it differ from analyzing non-recursive functions? How is it the same?
+
+Analyzing recursive functions vs non-recursive differ in terms of how the functions are actually read. With recursive functions, the initial
+problem itself gets broken down into more comprehensive smaller parts while non-recursive is essentially read as a flow of code from top
+to bottom.
