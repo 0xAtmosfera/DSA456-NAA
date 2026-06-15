@@ -71,6 +71,7 @@ class DoublyLinked:
 
 
 class Sentinel:
+    
     class Node:
         def __init__(self, data, next= None, previous= None):
             self.data = data
